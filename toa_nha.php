@@ -120,7 +120,7 @@ include 'includes/header.php';
                 <td>
                     <div class="btn-group">
                         <a href="phong.php?toa=<?= $tn['id'] ?>" class="btn btn-sm btn-secondary">🚪 Phòng</a>
-                        <a href="toa_nha.php?edit=<?= $tn['id'] ?>" class="btn btn-sm btn-outline">✏️</a>
+                            <a href="toa_nha.php?edit=<?= $tn['id'] ?>" class="btn btn-sm btn-outline">✏️</a>
                         <form method="POST" style="display:inline" onsubmit="return confirm('Xóa tòa nhà này?')">
                             <input type="hidden" name="action" value="delete">
                             <input type="hidden" name="id" value="<?= $tn['id'] ?>">

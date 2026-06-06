@@ -45,6 +45,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             display: flex; align-items: center; justify-content: center;
             background: #0f172a;
             position: relative; overflow: hidden;
+            padding: 24px;
         }
         .bg-grid {
             position: fixed; inset: 0;
@@ -78,6 +79,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             padding: 44px 40px;
             width: 100%; max-width: 420px;
             box-shadow: 0 25px 60px rgba(0,0,0,.4);
+            margin: 0 auto;
         }
         .brand {
             text-align: center; margin-bottom: 32px;

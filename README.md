@@ -26,7 +26,7 @@
    define('DB_NAME', 'ktx_db');
    ```
 
-4. **Truy cập**: `http://localhost/ktx/`
+4. **Truy cập**: `http://localhost/KTX-PHP-Project/`
 
 ### Tài khoản mặc định
 | Tên đăng nhập | Mật khẩu | Quyền |
@@ -38,16 +38,16 @@
 
 | Module | Mô tả |
 |---|---|
-| 📊 Dashboard | Tổng quan, thống kê, cảnh báo |
-| 🏗️ Tòa nhà | CRUD tòa nhà |
-| 🚪 Phòng ở | Quản lý phòng, lọc theo trạng thái |
-| 👤 Sinh viên | Hồ sơ sinh viên, tìm kiếm, phân trang |
-| 📋 Hợp đồng | Tạo/gia hạn/hủy hợp đồng |
-| 💰 Hóa đơn | Điện, nước, tính toán tự động |
-| ⚠️ Vi phạm | Ghi nhận kỷ luật sinh viên |
-| 🔧 Bảo trì | Quản lý yêu cầu sửa chữa |
-| 📈 Báo cáo | Doanh thu theo tháng, thống kê |
-| ⚙️ Quản trị | Tài khoản, công cụ hệ thống |
+| Dashboard | Tổng quan, thống kê, cảnh báo |
+| Tòa nhà | CRUD tòa nhà |
+| Phòng ở | Quản lý phòng, lọc theo trạng thái |
+| Sinh viên | Hồ sơ sinh viên, tìm kiếm, phân trang |
+| Hợp đồng | Tạo/gia hạn/hủy hợp đồng |
+| Hóa đơn | Điện, nước, tính toán tự động |
+| Vi phạm | Ghi nhận kỷ luật sinh viên |
+| Bảo trì | Quản lý yêu cầu sửa chữa |
+| Báo cáo | Doanh thu theo tháng, thống kê |
+| Quản trị | Tài khoản, công cụ hệ thống |
 
 ## Cấu trúc thư mục
 ```
